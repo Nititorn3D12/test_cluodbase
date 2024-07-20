@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595538296009",
+    "project_id": "flutterku-e517b",
+    "storage_bucket": "flutterku-e517b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595538296009:android:62bbc31c52e11b9eefe118",
+        "android_client_info": {
+          "package_name": "com.example.test_cluodbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOnGJvHJ4nSgE3UwDhUH1KCcmU_dhy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
